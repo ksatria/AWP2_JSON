@@ -1,0 +1,17 @@
+<daftarmahasiswa>
+	<mahasiswa>
+		<nim>1110001</nim>
+		<nama>Abdul Kadir</nama>
+		<jurusan>TI</jurusan>
+	</mahasiswa>
+	<mahasiswa>
+		<nim>1110105</nim>
+		<nama>Siti Maisyaroh</nama>
+		<jurusan>TI</jurusan>
+	</mahasiswa>
+	<mahasiswa>
+		<nim>3112146</nim>
+		<nama>Zainuri</nama>
+		<jurusan>MI</jurusan>
+	</mahasiswa>
+</daftarmahasiswa>
